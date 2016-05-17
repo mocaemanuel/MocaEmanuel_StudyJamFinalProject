@@ -38,8 +38,32 @@
             android:paddingLeft="5dp"
             android:paddingTop="16dp"
             android:text="Hello, this application showes you 5 tourist atractions in our beautiful city that is called
-Cluj-Napoca"
+Cluj-Napoca."
             android:textSize="16sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:layout_gravity="center_horizontal" />
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="16sp"
+            android:paddingLeft="15dp"
+            android:paddingTop="16dp"
+            android:text="1. Union square "
+            android:textAllCaps="true"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageButton"
+            android:layout_gravity="center_horizontal" />
 
     </LinearLayout>
 
