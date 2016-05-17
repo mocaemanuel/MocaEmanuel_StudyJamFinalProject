@@ -38,7 +38,7 @@
             android:paddingLeft="5dp"
             android:paddingTop="16dp"
             android:text="Hello, this application showes you 5 tourist atractions in our beautiful city that is called
-Cluj-Napoca, you can click on the picture  "
+Cluj-Napoca"
             android:textSize="16sp" />
 
     </LinearLayout>
